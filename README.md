@@ -10,6 +10,6 @@ As we can't remember everything, users frequently forget to buy the things they 
 
 SmartInternz Dashboard Link: https://smartinternz.com/student-profile/feed/U0IyMDIyMDI0OTU1Ng==
 
-Demo Video Link: https://drive.google.com/file/d/1lGxRXlak9OixcyEA2NV9MAqhrPrEcK3c/view?usp=sharing
+Demo Video Link: https://drive.google.com/file/d/1rmtxT0V5Ndw215I4hydXZ567LnSAKSV3/view?usp=sharing
 
 Google Developer Profile Link: https://g.dev/aishBh
